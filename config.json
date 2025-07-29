@@ -78,6 +78,10 @@
       "name": "iKun资源"
     },
     "lzi": {
+      "api": "http://www.asmr19.in/api.php/provide/vod",
+      "name": "ASMR 19"
+    },
+    "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
