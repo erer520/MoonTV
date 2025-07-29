@@ -78,6 +78,26 @@
       "name": "iKun资源"
     },
     "lzi": {
+      "api": "https://api.sexnguon.com/api.php/provide/vod",
+      "name": "色南国资源"
+    },
+    "lzi": {
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "name": "淫水机资源"
+    },
+    "lzi": {
+      "api": "https://91md.me/api.php/provide/vod",
+      "name": "91麻豆"
+    },
+    "lzi": {
+      "api": "http://fhapi9.com/api.php/provide/vod",
+      "name": "番号资源"
+    },
+    "lzi": {
+      "api": "https://kkzy.me/api.php/provide/vod",
+      "name": "KK写真资源"
+    },
+    "lzi": {
       "api": "http://www.asmr19.in/api.php/provide/vod",
       "name": "ASMR 19"
     },
